@@ -12,6 +12,15 @@
 
    step3) src/static/image/init_image_3.png
 
+
+## 오류
+
+[intellij] Cannot start compilation: the output path is not specified for module 오류 해결 
+https://118k.tistory.com/856
+
+[Java] invalid source release 에러 해결
+https://louisdev.tistory.com/17
+
    
 ## 기본 문서
 - 메소드 정리

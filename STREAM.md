@@ -109,4 +109,9 @@
 
 - 8가지 데이터 소스에서 stream을 생성할 수 있습니다.
 
+https://blog.advenoh.pe.kr/java/%EC%9E%90%EB%B0%948-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-max%EA%B0%92-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0/
 
+
+- 모든 사람들이 적어도 한번은 겪어 봤을 법 한 문제로 , 스트림은 오직 한번만 소비 할 수 있어서 다음 코드는 작동하지 않아요.
+https://hamait.tistory.com/547
+stream has already been operated upon or closed

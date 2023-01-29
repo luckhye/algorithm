@@ -35,7 +35,6 @@ public class _wijang {
 
         // 1. 그루핑
         // Array -> to String (:key)  -> to Map<key, Counting>
-        //Optional<Long> result = Arrays.stream(clothes)
         Long result = Arrays.stream(clothes)
                 //.forEach( i -> System.out.println(Arrays.toString(i)));
                 //.forEach( i -> System.out.println(i[0]));
