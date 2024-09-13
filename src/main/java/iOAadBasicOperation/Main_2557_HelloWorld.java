@@ -1,4 +1,4 @@
-package IOAadBasicOperation;
+package iOAadBasicOperation;
 
 public class Main_2557_HelloWorld {
     public static void main(String[] args) {

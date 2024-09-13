@@ -1,8 +1,8 @@
-package IOAadBasicOperation;
+package iOAadBasicOperation;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main_10869_forBasicOperation {
+public class Main_18108_1998년생인내가태국에서는2541년생 {
     public static void main(String[] args) {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.

@@ -1,8 +1,8 @@
-package IOAadBasicOperation;
+package loopSentences;
 
 import java.util.Scanner;
 
-public class Main_1000_plus {
+public class Main_2439_Print_Stars_minus_2 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
